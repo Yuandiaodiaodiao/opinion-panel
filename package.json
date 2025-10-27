@@ -1,0 +1,25 @@
+{
+  "name": "op",
+  "version": "1.0.0",
+  "description": "BSC预测市场SDK - 库存管理系统",
+  "main": "InventoryManager.js",
+  "scripts": {
+    "start": "node tradingDashboard.js"
+  },
+  "keywords": [
+    "bsc",
+    "prediction-market",
+    "inventory",
+    "nft",
+    "erc1155"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "dotenv": "^16.4.0",
+    "ethers": "^6.15.0",
+    "https-proxy-agent": "^7.0.6"
+  }
+}
