@@ -14,7 +14,7 @@
     "erc1155"
   ],
   "author": "",
-  "license": "ISC",
+  "license": "AGPL-3.0",
   "type": "commonjs",
   "dependencies": {
     "axios": "^1.12.2",
